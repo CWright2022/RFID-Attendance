@@ -1,3 +1,6 @@
+//This file has been redacted to redact personal info like my SSID, password, and some other things.
+//Code is entirely functional if these are replaced with real values in the section designated below
+
 #include <SPI.h>
 #include <PN532_SPI.h> //nfc and SPI stuff
 #include <PN532.h>
